@@ -1,7 +1,11 @@
-# StudentJPDB
+# Student Enrollment Form
+Student Enrollment Form that will store data in STUDENT-TABLE relation of SCHOOL-DB database
 
-**Micro Project Instruction**
+Input Fields: {Roll-No, Full-Name, Class, Birth-Date, Address, Enrollment-Date}
 
+Primary key: Roll No.
+
+## Description
 
 Create a form based on any one of the TOPICS given below. The form should store data in the database. The primary key and input fields of each topic is mentioned.
 
@@ -23,13 +27,13 @@ Click on [Update] button to update the data in the database and go to step-2.
 
 Click [Reset] to reset the form as per the step-2.
 
-## Micro Project Topic 
+## Benefits of using JsonPowerDB
+1. Simple to use, in memory, real time.
+2. Schema free - easy to maintain.
+3. Webservices API - Low Dev Cost.
+4. Multiple Security Layers.
+5. Built around the world's fastest indexing engine PowerIndex.
 
-Student Enrollment Form that will store data in STUDENT-TABLE relation of SCHOOL-DB database
-
-Input Fields: {Roll-No, Full-Name, Class, Birth-Date, Address, Enrollment-Date}
-
-Primary key: Roll No.
 
 ## Screenshots
 
